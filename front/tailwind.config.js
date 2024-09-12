@@ -11,6 +11,9 @@ export default {
         's-blue': '#408CFF',
         't-blue': '#D1E4FF',
       },
+      height: {
+        '92': '92%'
+      }
     },
   },
   plugins: [],
