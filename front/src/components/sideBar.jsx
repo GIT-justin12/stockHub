@@ -5,12 +5,12 @@ const SideBar = () => {
 
     return (
         <nav className='h-full bg-t-blue flex sm:basis-2/12 flex-col py-8 gap-8 text-p-blue'>
-            <Link to="/" className='link'>
+            <Link to="/home" className='link'>
                 <span className="dashicons--welcome-view-site link-icon"></span>
                 <span>Iventaire</span>
             </Link>
-            <Link to="/" className='link'>
-                <span class="eos-icons--products-outlined link-icon"></span>
+            <Link to="/home" className='link'>
+                <span className="eos-icons--products-outlined link-icon"></span>
                 <span>Article</span>
             </Link>
             <Link to="/" className='link'>

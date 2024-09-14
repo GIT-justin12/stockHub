@@ -24,7 +24,7 @@ body {
     @apply text-p-blue cursor-pointer
 }
 .link {
-    @apply flex items-center py-4 px-6 hover:bg-p-blue hover:text-white font-medium text-xl
+    @apply flex items-center py-4 px-6 hover:bg-p-blue hover:text-white font-medium text-xl focus:bg-p-blue focus:text-white
 }
 .link-icon {
     @apply mr-4 text-3xl
