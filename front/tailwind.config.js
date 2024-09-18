@@ -16,6 +16,15 @@ export default {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities }) {
+      addUtilities({
+        '::selection': {
+          backgroundColor: '#fbbf24', // Utilisation d'une couleur jaune
+          color: '#000',               // Couleur du texte noir
+        },
+      });
+    },
+  ],
 }
 
