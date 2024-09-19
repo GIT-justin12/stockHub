@@ -1,0 +1,104 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "name": "Banane",
+            "picture": "https://kadalys.com/cdn/shop/articles/Bio-Actif-Banane-Jaune-KADALYS-49416141.jpg?v=1716810725&width=2048",
+            "categorie": "Fruits",
+            "Price": 50,
+            "quantity": 12,
+            "transaction": "Ventes",
+            "date": "15/09/2024"
+        },
+        {
+            "id": "2",
+            "name": "Lactel",
+            "picture": "https://www.lactalisfoodservice.fr/app/uploads/2022/07/lactalisfoodservice-lait-bio-demiecreme-1l.png",
+            "categorie": "Laits",
+            "Price": 10,
+            "quantity": 160,
+            "transaction": "Ventes",
+            "date": "15/09/2024"
+        },
+        {
+            "id": "3",
+            "name": "Mangue",
+            "picture": "https://rabbits.world/wp-content/uploads/2022/01/Mangue.jpg",
+            "categorie": "Fruits",
+            "Price": 5,
+            "quantity": 154,
+            "transaction": "Achat",
+            "date": "17/09/2024"
+        },
+        {
+            "id": "4",
+            "name": "Gerblé",
+            "picture": "https://www.gerble.fr/var/site/storage/images/_aliases/full_produit/vitalite/biscuit-complet-au-germe-de-ble/1411-31-fre-FR/biscuit-complet-au-germe-de-ble.png",
+            "categorie": "Biscuits",
+            "Price": 7,
+            "quantity": 72,
+            "transaction": "Ventes",
+            "date": "17/09/2024"
+        },
+        {
+            "id": "5",
+            "name": "Pomme",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+            "categorie": "Fruits",
+            "Price": 30,
+            "quantity": 25,
+            "transaction": "Achats",
+            "date": "16/09/2024"
+          },
+          {
+            "id": "6",
+            "name": "Tomate",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+            "categorie": "Légumes",
+            "Price": 20,
+            "quantity": 18,
+            "transaction": "Ventes",
+            "date": "17/09/2024"
+          },
+          {
+            "id": "7",
+            "name": "Raisin",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/3/36/Grape.jpg",
+            "categorie": "Fruits",
+            "Price": 60,
+            "quantity": 10,
+            "transaction": "Ventes",
+            "date": "18/09/2024"
+          },
+          {
+            "id": "8",
+            "name": "Carotte",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Carrot.jpg",
+            "categorie": "Légumes",
+            "Price": 15,
+            "quantity": 30,
+            "transaction": "Achats",
+            "date": "19/09/2024"
+          },
+          {
+            "id": "9",
+            "name": "Kitkat",
+            "picture": "https://www.kitkat.fr/sites/default/files/styles/full_width_image_1920x795_/public/2024-04/kitkat_chocolat_au_lait.png?itok=Z-PZwi-X",
+            "categorie": "Biscuits",
+            "Price": 45,
+            "quantity": 35,
+            "transaction": "Ventes",
+            "date": "22/09/2024"
+          },
+          {
+            "id": "10",
+            "name": "Tomate",
+            "picture": "https://img.freepik.com/vecteurs-libre/tomates-fraiches_1053-566.jpg",
+            "categorie": "Légumes",
+            "Price": 15,
+            "quantity": 4,
+            "transaction": "Achats",
+            "date": "20/09/2024"
+          }
+    ]
+}
